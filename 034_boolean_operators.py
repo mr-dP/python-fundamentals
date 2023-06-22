@@ -74,7 +74,3 @@ b = 30
 
 b != 0 and a / b > 1
 # Out[15]: False
-
-# COMMAND ----------
-
-
